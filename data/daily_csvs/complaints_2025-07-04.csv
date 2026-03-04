@@ -1,0 +1,21 @@
+complaint_id,customer_id,date,complaint_type,resolved
+1,72,2025-07-04,Network Issue,True
+2,65,2025-07-04,Slow Internet,True
+3,49,2025-07-04,Overbilling,False
+4,3,2025-07-04,Network Issue,True
+5,8,2025-07-04,Service Down,True
+6,79,2025-07-04,Service Down,True
+7,82,2025-07-04,Network Issue,True
+8,14,2025-07-04,Network Issue,False
+9,76,2025-07-04,Overbilling,True
+10,16,2025-07-04,Slow Internet,True
+11,67,2025-07-04,Overbilling,False
+12,25,2025-07-04,No Response,True
+13,83,2025-07-04,Slow Internet,True
+14,15,2025-07-04,Overbilling,False
+15,27,2025-07-04,No Response,True
+16,2,2025-07-04,Slow Internet,True
+17,80,2025-07-04,Overbilling,True
+18,63,2025-07-04,Overbilling,False
+19,18,2025-07-04,Slow Internet,True
+20,86,2025-07-04,Network Issue,True
